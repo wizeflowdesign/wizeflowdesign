@@ -1,0 +1,156 @@
+*{text-decoration: none;
+ 
+}
+
+
+
+.background{background-color:black;}
+
+ ul li a {transition-duration: 0.3m;}
+
+nav{background-color: rgb(219, 203, 203);}
+nav ul li a:hover{background-color: rgb(219, 203, 203);
+border-radius: 10px;}
+
+.imgakash{border-radius:20px ;}
+
+/* 
+body {
+    background-color:#ce3635;
+    text-align: center;
+    color:#fff;
+    padding-top:10em;
+  }
+  
+  * { color:#fff; text-decoration: none;} */
+
+  h2 a{ text-decoration: none;
+   color:#000}
+  
+   h2 a:hover{ text-decoration: none;
+   color:white;}
+  
+    .button{border:1px solid black;
+    background-color: tomato;
+  border-radius: 30px;
+  padding: 15px;
+  font-size: 18px;
+  cursor: pointer;
+ color: white;
+}
+.button:hover{border:1px solid black;
+  background-color: rgb(163, 52, 32);
+border-radius: 30px;
+}
+
+h1,h2,h4{color:white}
+h2 a{color:white;}
+
+
+.letme{background-color: #000000;
+margin-top: 300px;}
+
+.rounded {
+  border-radius: 90%!important;
+}
+
+.navbar-inverse .navbar-toggle:hover {
+  background-color: #fffffff5;
+}
+ .navbar-toggle:focus {
+    background-color: white;
+    color :yellow;
+}
+.Akash{color:tomato;}
+
+.letme{background-color: #000000;}
+
+.navbar-toggler{background-color: rgb(163, 156, 156);
+color:white;}
+
+.navbar-toggler:hover{background-color: rgb(163, 156, 156);
+  color:white;}
+  .skillsetbg{background-color: #252525;}
+  @media only screen and (max-width: 600px) {
+    body {
+      background-color: lightblue;
+    }
+  }
+  .row mt-5 p-4:hover {background-color: #d1bfbf;}
+
+  .letmebackground{background-color: #6e6a6a;}
+
+  /* .margin-top{margin-top: 30px;} */
+  .card1{transition:all 0.3s;
+
+  }
+
+  .card1:hover{transform:scale(1.15);
+    cursor:pointer;}
+
+  .card2{transition:all 0.3s;}
+
+  .card2:hover{transform:scale(1.15);
+    cursor:pointer;}
+
+  .card3{transition:all 0.3s;}
+
+  .card3:hover{transform:scale(1.15);
+    cursor:pointer;}
+
+  .card4{transition:all 0.3s;}
+
+  .card4:hover{transform:scale(1.15);
+    cursor:pointer;}
+
+  .card5{transition:all 0.3s;}
+
+  .card5:hover{transform:scale(1.15);
+    cursor:pointer}
+
+  .card6{transition:all 0.3s;}
+
+  .card6:hover{transform:scale(1.15);
+    cursor:pointer}
+
+  .card7{transition:all 0.3s;}
+
+  .card7:hover{transform:scale(1.15);
+  cursor:pointer}
+  
+.Hossain{color:#d4c7c7}
+.font-size{font-size: 18px !important;}
+
+.Hossain1 {color:white}
+
+.services-section{background-color:#2B2929}
+
+.section1{font-size: 35px;}
+.section1-cap{font-size: 20px;}
+
+.card:hover {
+  transform: scale(1.05);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  background-color: #c7c7c7;
+}
+
+
+.Hossain2{color:#ffffff;
+background-color: #5a5353;}
+
+.footer{color:white}
+
+.about{ color:white;}
+.zoom-img {
+  transition: transform 0.3s ease; /* Smooth transition effect */
+}
+
+.zoom-img:hover {
+  transform: scale(1.2); /* Zoom the image to 120% */
+  cursor:pointer;
+}
+
+
+.cursor{cursor:pointer;}
+
+
